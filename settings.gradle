@@ -1,0 +1,2 @@
+rootProject.name='Life Achievements'
+include ':app'
